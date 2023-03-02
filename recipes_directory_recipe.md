@@ -5,16 +5,17 @@ _Copy this recipe template to design and create a database table from a specific
 ## 1. Extract nouns from the user stories or specification
 
 ```
-# EXAMPLE USER STORY:
-# (analyse only the relevant part - here the final line).
+As a food lover,
+So I can stay organised and decide what to cook,
+I'd like to keep a list of all my recipes with their names.
 
-As a music lover,
-So I can organise my records,
-I want to keep a list of albums' titles.
+As a food lover,
+So I can stay organised and decide what to cook,
+I'd like to keep the average cooking time (in minutes) for each recipe.
 
-As a music lover,
-So I can organise my records,
-I want to keep a list of albums' release year.
+As a food lover,
+So I can stay organised and decide what to cook,
+I'd like to give a rating to each of the recipes (from 1 to 5).
 ```
 
 ```
